@@ -1,0 +1,16 @@
+img{
+	width: 80px;
+    height: 50px;
+}
+h2{
+	float: left;
+	margin-right: 600px;
+	margin-top: 20px;
+}
+
+
+table{
+    width: 80%;
+    margin: 40px auto;
+    background: white;
+}
